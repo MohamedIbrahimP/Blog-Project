@@ -44,3 +44,6 @@ To run tests, Follow these instructions to set up and run the Blog locally:
 2. **Clone the Repository**
 3. **Database Setup**:
 - Run Entity Framework migrations to set up the database. 
+
+![vCard Desktop Demo](/Demo.jpg "Desktop Demo")
+
